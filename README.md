@@ -10,6 +10,10 @@ This repository contains the source code for a WhatsApp AI Bot that utilizes Ope
 ## 🔍 READ FIRST
 Please note that this bot has 2 features - ChatGPT (text) and DALL-E (Text To Image). To use these features, simply use the commands `/ai` and `/img` respectively.
 
+## 🔒 Unlock the Magic
+
+The magic of this AI WhatsApp bot lies in its code, which has been carefully crafted and encrypted to protect it from prying eyes. But don't worry, if you need to take a closer look and understand the workings of the bot, just drop me a message on my website or LinkedIn. I'll be happy to share the key to unlock the full potential of this amazing creation. 🔓
+
 ## 🚀 Getting Started
 
 1. Get an OpenAI API Key by creating an account [here](https://go.yesbhautik.co.in/l76e5p).
