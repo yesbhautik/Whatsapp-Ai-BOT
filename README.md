@@ -23,7 +23,7 @@ Please note that this bot has 2 features - ChatGPT (text) and DALL-E (Text To Im
 4. Install dependencies: `$ npm install`
 5. Run the project: `$ node index.js`
 
-### 🚀 Deploy on Heroku
+### ⚡ Deploy on Heroku
 
 You can also easily deploy this bot on Heroku with just a few clicks.
 
