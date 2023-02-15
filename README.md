@@ -1,6 +1,5 @@
 # 💬 Whatsapp-Ai-BOT 🤖
 
-[![GitHub issues](https://img.shields.io/github/issues/yesbhautik/Whatsapp-Ai-BOT?color=blue)](https://github.com/yesbhautik/Whatsapp-Ai-BOT/issues) [![GitHub forks](https://img.shields.io/github/forks/yesbhautik/Whatsapp-Ai-BOT)](https://github.com/yesbhautik/Whatsapp-Ai-BOT/network) [![GitHub stars](https://img.shields.io/github/stars/yesbhautik/Whatsapp-Ai-BOT)](https://github.com/yesbhautik/Whatsapp-Ai-BOT/stargazers) [![GitHub license](https://img.shields.io/github/license/yesbhautik/Whatsapp-Ai-BOT)](https://github.com/yesbhautik/Whatsapp-Ai-BOT/blob/master/LICENSE)
 
 A cutting-edge AI chatbot for WhatsApp 🤖💬 built using NodeJS technology and powered by OpenAI. This project leverages the advanced deep learning models of ChatGPT, Playground, and DALL·E from OpenAI.
 
