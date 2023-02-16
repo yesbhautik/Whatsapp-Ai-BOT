@@ -21,10 +21,35 @@ The magic of this AI WhatsApp bot lies in its code, which has been carefully cra
 ### 💻 Install on Linux/Windows/Mac
 
 1. Install NodeJS and Git Bash.
-2. Clone the repository: `$ git clone https://github.com/yesbhautik/Whatsapp-Ai-BOT`
-3. Go to the project directory: `$ cd Whatsapp-Ai-BOT`
-4. Install dependencies: `$ npm install`
-5. Run the project: `$ node index.js`
+
+   ### Windows</br>
+      NodeJS https://nodejs.org/en/download/ <br>
+      Git https://git-scm.com/downloads/
+
+      ```
+      npm install -g npm
+      ```
+   ### Linux</br>
+      ```
+      sudo apt -y remove nodejs
+      curl -fsSl https://deb.nodesource.com/setup_lts.x | sudo bash - && sudo apt -y install nodejs
+      ```
+2. Clone the repository: 
+   ```
+   git clone https://github.com/yesbhautik/Whatsapp-Ai-BOT
+   ```
+3. Go to the project directory:
+   ```
+   cd Whatsapp-Ai-BOT
+   ```
+4. Install dependencies: 
+   ```
+   npm install
+   ```
+5. Run the project: 
+   ```
+   node index.js
+   ```
 
 ### ⚡ Deploy on Heroku
 
@@ -45,11 +70,24 @@ Don't have a Heroku account yet? Sign up for free [here](https://heroku.com).
 
 ### 📱 Install on Termux
 
-1. Install NodeJS and Git: `$ pkg install git nodejs -y`
-2. Clone the repository: `$ git clone https://github.com/yesbhautik/Whatsapp-Ai-BOT`
-3. Go to the project directory: `$ cd Whatsapp-Ai-BOT`
+1. Install NodeJS and Git: 
+   ```
+   pkg install git nodejs -y
+   ```
+2. Clone the repository: 
+   ```
+   git clone https://github.com/yesbhautik/Whatsapp-Ai-BOT
+   ```
+3. Go to the project directory: 
+   ```
+   cd Whatsapp-Ai-BOT
+   ```
 4. Install node_modules manually by downloading [here](https://go.yesbhautik.co.in/yhhu9g) and extracting to the project directory.
-5. Run the project: `$ node index.js`
+5. Run the project:
+
+   ```
+   node index.js
+   ```
 
 ## 🔥 Show some support
 If you find this repository helpful, show your support by giving it a 🌟! Your support means a lot to me and helps me keep contributing to the open-source community.
