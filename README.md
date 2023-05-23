@@ -88,11 +88,18 @@ Don't have a Heroku account yet? Sign up for free [here](https://heroku.com).
    ```
    node index.js
    ```
+### 🎥 YouTube Website Instructions
 
-## 🔥 Show some support
+To learn more about this AI WhatsApp bot and its features, you can watch the tutorial videos on my YouTube channel. Visit [here](https://youtu.be/4lk6IMZ544s) to access the videos.
+
+## 🔥 Show some support | Donation
 If you find this repository helpful, show your support by giving it a 🌟! Your support means a lot to me and helps me keep contributing to the open-source community.
 
 Also, if you'd like to support me financially, you can do so via my donation link: [https://go.yesbhautik.co.in/8i6wdu](https://go.yesbhautik.co.in/8i6wdu)
+<br><br>
+<a href="https://go.yesbhautik.co.in/8i6wdu">
+  <img src="https://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-Free-Download-PNG.png" alt="Donate" width="100">
+</a>
 
 ## 📫 Connect with me
 - Website: [https://i-am.yesbhautik.co.in/](https://i-am.yesbhautik.co.in/)
