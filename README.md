@@ -88,7 +88,8 @@ Don't have a Heroku account yet? Sign up for free [here](https://heroku.com).
    ```
    node index.js
    ```
-### 🎥 YouTube Website Instructions
+
+## <img src="youtube.png" alt="Donate" width="21"> YouTube Video Instructions
 
 To learn more about this AI WhatsApp bot and its features, you can watch the tutorial videos on my YouTube channel. Visit [here](https://youtu.be/4lk6IMZ544s) to access the videos.
 
