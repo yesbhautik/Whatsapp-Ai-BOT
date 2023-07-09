@@ -42,13 +42,22 @@ The magic of this AI WhatsApp bot lies in its code, which has been carefully cra
    ```
    cd Whatsapp-Ai-BOT
    ```
-4. Install dependencies: 
+4. Clean NPM Cache:
    ```
-   npm install
+   npm cache clean --force
    ```
-5. Run the project: 
+5. Install dependencies: 
    ```
-   node index.js
+   npm install --force
+   ```
+   > It's may take minimum 10 to 15 Minutes as per your internet connection & your system configuration.
+   > If you are facing issue in Node Package installation
+      1. Delete node_modules folder
+      2. Extract provided ZIP archive file in the Project root directory.
+   
+6. Run the project: 
+   ```
+   npm start
    ```
 
 ### ⚡ Deploy on Heroku
