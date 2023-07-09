@@ -1,6 +1,6 @@
 {
   "name": "Whatsapp-Ai-BOT",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Whatsapp Ai Bot, developed BY Bhautik Bavadiya with Youareunique Inc.",
   "main": "index.js",
   "type": "commonjs",
@@ -24,16 +24,17 @@
   "author": "YESBHAUTIK",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "4.4.0",
+    "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.0",
     "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.3.4",
     "chalk": "^4.1.2",
-    "chatgpt": "^4.1.1",
     "crypto": "^1.0.1",
     "figlet": "^1.5.2",
     "fs": "0.0.1-security",
     "lodash": "^4.17.21",
-    "openai": "^3.1.0",
+    "openai": "^3.2.1",
     "pino": "^7.0.5",
     "qrcode-terminal": "^0.12.0",
     "util": "^0.12.4"
