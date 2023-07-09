@@ -111,4 +111,4 @@ Also, if you'd like to support me financially, you can do so via my donation lin
 Feel free to reach out to me if you have any questions, ideas or just want to chat. I'm always here to help and connect with the community.
 
 ## 📜 License
-This repository is under the GPL-3 License. For more information, see the [LICENSE](LICENSE) file.
+This repository is under the MIT License. For more information, see the [LICENSE](LICENSE) file.
