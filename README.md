@@ -111,8 +111,10 @@ Also, if you'd like to support me financially, you can do so via my donation lin
   <img src="https://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-Free-Download-PNG.png" alt="Donate" width="100">
 </a>
 
-## 📫 Connect with me
-- Website: [https://i-am.yesbhautik.co.in/](https://i-am.yesbhautik.co.in/)
+## 💬 Let's Connect
+Feel free to reach out to us if you have questions, ideas, or simply want to chat. We're here to help and connect with the community.
+- Website: [https://yesbhautik.co.in/](https://yesbhautik.co.in/)
+- Another One: [https://yesbhautikx.co.in/](https://yesbhautikx.co.in/)
 - LinkedIn profile: [https://www.linkedin.com/in/yesbhautik](https://www.linkedin.com/in/yesbhautik)
 - Instagram page: [https://www.instagram.com/yesbhautik](https://www.instagram.com/yesbhautik)
 
