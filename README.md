@@ -118,8 +118,5 @@ Feel free to reach out to us if you have questions, ideas, or simply want to cha
 - LinkedIn profile: [https://www.linkedin.com/in/yesbhautik](https://www.linkedin.com/in/yesbhautik)
 - Instagram page: [https://www.instagram.com/yesbhautik](https://www.instagram.com/yesbhautik)
 
-## 💬 Let's chat
-Feel free to reach out to me if you have any questions, ideas or just want to chat. I'm always here to help and connect with the community.
-
 ## 📜 License
 This repository is under the MIT License. For more information, see the [LICENSE](LICENSE) file.
