@@ -102,6 +102,15 @@ Don't have a Heroku account yet? Sign up for free [here](https://heroku.com).
 
 To learn more about this AI WhatsApp bot and its features, you can watch the tutorial videos on my YouTube channel. Visit [here](https://youtu.be/4lk6IMZ544s) to access the videos.
 
+## Contributing 🤝
+Contributions are welcome! Please follow these steps to contribute to the project:
+
+1. Fork the repository🍴
+2. Create a new branch for your feature or bug fix 🌿
+3. Make your changes and commit them 💻
+4. Push your changes to your fork 🚀
+5. Create a pull request to the main repository 📥
+
 ## 🔥 Show some support | Donation
 If you find this repository helpful, show your support by giving it a 🌟! Your support means a lot to me and helps me keep contributing to the open-source community.
 
