@@ -4,7 +4,7 @@
 A cutting-edge AI chatbot for WhatsApp 🤖💬 built using NodeJS technology and powered by OpenAI. This project leverages the advanced deep learning models of ChatGPT, Playground, and DALL·E from OpenAI.
 
 ## 💻 Created with NodeJS and Baileys Library
-This repository contains the source code for a WhatsApp AI Bot that utilizes OpenAI's ChatGPT and DALL-E technology to provide a unique text-based and image-based conversational experience for users. The library used for integration is [Baileys](#). 
+This repository contains the source code for a WhatsApp AI Bot that utilizes OpenAI's ChatGPT and DALL-E technology to provide a unique text-based and image-based conversational experience for users. The library used for integration is [Baileys](https://github.com/WhiskeySockets/Baileys). 
 
 ## 🔍 READ FIRST
 Please note that this bot has 2 features - ChatGPT (text) and DALL-E (Text To Image). To use these features, simply use the commands `/ai`, `/img`, and `/sc` respectively.
