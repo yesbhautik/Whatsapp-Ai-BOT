@@ -1,4 +1,4 @@
-# 💬 Whatsapp-Ai-BOT 🤖
+# 💬 Whatsapp-Ai-BOT 🤖 yobih
 
 
 A cutting-edge AI chatbot for WhatsApp 🤖💬 built using NodeJS technology and powered by OpenAI. This project leverages the advanced deep learning models of ChatGPT, Playground, and DALL·E from OpenAI.
