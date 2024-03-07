@@ -1,0 +1,11 @@
+# ignore node modules
+node_modules/
+
+# ignore /yesbhautik/* excluding convo.txt file
+/yesbhautik/*
+!/yesbhautik/convo.txt
+
+# ignore package-lock.json
+package-lock.json
+
+key.json
