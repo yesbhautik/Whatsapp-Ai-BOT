@@ -22,126 +22,15 @@ Give a ping on [Telegram](https://t.me/yesbhautik) | [WhatsApp](https://wa.me/+9
 1. Get an OpenAI API Key by creating an account [here](https://go.yesbhautik.co.in/l76e5p).
 2. Replace the API Key in the `key.json` file [here](https://go.yesbhautik.co.in/8b2ayw).
 
-## Deployment
+## Deployment Documentation
 
-   ### Windows</br>
+### [Windows](https://github.com/yesbhautik/Whatsapp-Ai-BOT/blob/main/Docs/Deployment/Windows.md)</br>
+   
+### [Linux](https://github.com/yesbhautik/Whatsapp-Ai-BOT/blob/main/Docs/Deployment/Linux.md)</br>
 
-1. Install NodeJS and Git Bash.
-      - NodeJS https://nodejs.org/en/download/ <br>
-      - Git https://git-scm.com/downloads/
-      - After this run following command in powershell
-      <br>
-      ```bash
-      npm install -g npm
-      ```
+### [MacOS](https://github.com/yesbhautik/Whatsapp-Ai-BOT/blob/main/Docs/Deployment/MacOS.md)
 
-2. Clone the repository:
-
-   ```
-   git clone https://github.com/yesbhautik/Whatsapp-Ai-BOT
-   ```
-
-3. Go to the project directory:
-
-   ```
-   cd Whatsapp-Ai-BOT
-   ```
-
-4. Clean NPM Cache:
-
-   ```
-   npm cache clean --force
-   ```
-
-5. Install dependencies:
-
-   ```
-   npm i
-   ```
-
-6. Configure OpenAI API
-
-   ```bash
-   cp example.key.json key.json
-   notepad key.json
-   ```
-
-   > Replace "OPENAI_API_KEY" with your actual [OpenAI API](https://go.yesbhautik.co.in/8b2ayw) key.
-7. Run the project:
-
-   ```
-   npm start
-      ```
-   ### Linux</br>
-1. Install NodeJS, nano and Git Bash.
-      ```bash
-      sudo apt -y remove nodejs
-      curl -fsSl https://deb.nodesource.com/setup_lts.x | sudo bash - && sudo apt -y install nodejs
-      apt install git nano -y
-      ```
-2. Clone the repository: 
-   ```bash
-   git clone https://github.com/yesbhautik/Whatsapp-Ai-BOT
-   ```
-3. Go to the project directory:
-   ```bash
-   cd Whatsapp-Ai-BOT
-   ```
-4. Clean NPM Cache:
-   ```bash
-   npm cache clean --force
-   ```
-5. Install dependencies: 
-   ```bash
-   npm i
-   ```
-6. Configure OpenAI API
-   ```bash
-   cp example.key.json key.json
-   nano key.json
-   ```
-   > Replace "OPENAI_API_KEY" with your actual [OpenAI API](https://go.yesbhautik.co.in/8b2ayw) key.
-7. Run the project: 
-   ```bash
-   npm start
-   ```
-
-### 📱 Android/Termux
-
-1. Install Termux App: [Click link to download](https://f-droid.org/en/packages/com.termux/)
-2. Install NodeJS, nano and Git:
-
-   ```
-   pkg install git nodejs nano -y
-   ```
-
-3. Clone the repository:
-
-   ```
-   git clone https://github.com/yesbhautik/Whatsapp-Ai-BOT
-   ```
-
-4. Go to the project directory:
-
-   ```
-   cd Whatsapp-Ai-BOT
-   ```
-
-5. Install node_modules manually by downloading [here](https://go.yesbhautik.co.in/m1n07d1r) and extracting to the project directory.
-6. Configure OpenAI API
-
-   ```bash
-   cp example.key.json key.json
-   nano key.json
-   ```
-
-   > Replace "OPENAI_API_KEY" with your actual [OpenAI API](https://go.yesbhautik.co.in/8b2ayw) key.
-7. Run the project:
-
-   ```
-   node index.js
-   ```
-
+### [Android/Termux](https://github.com/yesbhautik/Whatsapp-Ai-BOT/blob/main/Docs/Deployment/Android.md)<br>
 
 ## <img src="youtube.png" alt="Donate" width="21"> YouTube Video Instructions
 
