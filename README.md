@@ -59,4 +59,4 @@ Feel free to reach out to us if you have questions, ideas, or simply want to cha
 [Website](https://yesbhautik.co.in/) | [YesbhautikX](https://yesbhautikx.co.in/) | [LinkedIn](https://www.linkedin.com/in/yesbhautik) | [GitHub](https://github.com/yesbhautik)
 
 ## 📜 License
-This repository is under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+This repository is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). For more information, see the [LICENSE](LICENSE) file.
