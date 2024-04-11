@@ -1,33 +1,49 @@
-1. Install NodeJS and Git Bash.
-   
-      NodeJS https://nodejs.org/en/download/ <br>
-      Git https://git-scm.com/downloads/
+### Windows </br>
 
-      ```
+1. Install NodeJS and Git Bash.
+      - NodeJS <https://nodejs.org/en/download/> <br>
+      - Git <https://git-scm.com/downloads/>
+      - After this run following command in powershell
+      <br>
+
+      ```bash
       npm install -g npm
       ```
-3. Clone the repository: 
+
+2. Clone the repository:
+
    ```
    git clone https://github.com/yesbhautik/Whatsapp-Ai-BOT
    ```
-4. Go to the project directory:
+
+3. Go to the project directory:
+
    ```
    cd Whatsapp-Ai-BOT
    ```
-5. Clean NPM Cache:
+
+4. Clean NPM Cache:
+
    ```
    npm cache clean --force
    ```
-6. Install dependencies: 
+
+5. Install dependencies:
+
    ```
-   npm install --force
+   npm i
    ```
-   > It's may take minimum 10 to 15 Minutes as per your internet connection & your system configuration.
-   > If you are facing issue in Node Package installation
-      1. Delete node_modules folder
-      2. Extract provided ZIP archive file in the Project root directory.
-   
-7. Run the project: 
+
+6. Configure OpenAI API
+
+   ```bash
+   cp example.key.json key.json
+   notepad key.json
+   ```
+
+   > Replace "OPENAI_API_KEY" with your actual [OpenAI API](https://go.yesbhautik.co.in/8b2ayw) key.
+7. Run the project:
+
    ```
    npm start
-   ```
+      ```
