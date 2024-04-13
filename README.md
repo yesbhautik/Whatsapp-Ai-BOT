@@ -30,6 +30,7 @@ Give a ping on [Telegram](https://t.me/yesbhautik) | [WhatsApp](https://wa.me/+9
 | Decrypted code    | ❌           | ✅           |
 | Regular Updates    | ❌           | ✅           |
 | Exclusive API offers    | ❌           | ✅           |
+| Commercial allowed license    | ❌           | ✅           |
 
 [![Support us](https://img.shields.io/badge/-Support%20us-blue?style=for-the-badge&logo=razorpay)](https://rzp.io/l/Whatsapp-Ai-BOT)
 
