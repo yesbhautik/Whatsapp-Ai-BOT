@@ -21,7 +21,7 @@ Give a ping on [Telegram](https://t.me/yesbhautik) | [WhatsApp](https://wa.me/+9
 
 | Features                                              | FREE         | PRIME        |
 |-------------------------------------------------------|--------------|--------------|
-| Encrypted code           | ✅           | ❌           |
+| Encrypted code (no changes in functionality)           | ✅           | ❌           |
 | History mode    | ❌           | ✅           |
 | Prime Support    | ❌           | ✅           |
 | Customizable    | ❌           | ✅           |
