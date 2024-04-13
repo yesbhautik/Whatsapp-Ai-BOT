@@ -17,6 +17,22 @@ The magic of this AI WhatsApp bot lies in its code, which has been carefully cra
 
 Give a ping on [Telegram](https://t.me/yesbhautik) | [WhatsApp](https://wa.me/+916353586391)
 
+## 📦 Code Distribution
+
+| Features                                              | FREE         | PRIME        |
+|-------------------------------------------------------|--------------|--------------|
+| Encrypted code           | ✅           | ❌           |
+| History mode    | ❌           | ✅           |
+| Prime Support    | ❌           | ✅           |
+| Customizable    | ❌           | ✅           |
+| DALL-E 3 with resolution Mods    | ❌           | ✅           |
+| GPT4    | ❌           | ✅           |
+| Decrypted code    | ❌           | ✅           |
+| Regular Updates    | ❌           | ✅           |
+| Exclusive API offers    | ❌           | ✅           |
+
+[![Support us](https://img.shields.io/badge/-Support%20us-blue?style=for-the-badge&logo=razorpay)](https://go.yesbhautik.co.in/prime-purchase)
+
 ## 🚀 Getting Started
 
    > Get an OpenAI API Key by creating an account [here](https://go.yesbhautik.co.in/l76e5p). <br>
@@ -48,11 +64,8 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 ## 🔥 Show some support | Donation
 If you find this repository helpful, show your support by giving it a 🌟! Your support means a lot to me and helps me keep contributing to the open-source community.
 
-Also, if you'd like to support & motivate me for hard work, you can do so via my donation link: [https://go.yesbhautik.co.in/8i6wdu](https://rzp.io/l/Contribute-to-YesbhautikX-USD)
-<br><br>
-<a href="https://rzp.io/l/Contribute-to-YesbhautikX-USD">
-  <img src="https://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-Free-Download-PNG.png" alt="Donate" width="100">
-</a>
+Also, if you'd like to support & motivate me for hard work, you can do so via my donation link: [https://rzp.io/l/Whatsapp-Ai-BOT](https://rzp.io/l/Whatsapp-Ai-BOT)
+<br>
 
 ## 💬 Let's Connect
 Feel free to reach out to us if you have questions, ideas, or simply want to chat. We're here to help and connect with the community. <br>
