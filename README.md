@@ -31,7 +31,7 @@ Give a ping on [Telegram](https://t.me/yesbhautik) | [WhatsApp](https://wa.me/+9
 | Regular Updates    | ❌           | ✅           |
 | Exclusive API offers    | ❌           | ✅           |
 
-[![Support us](https://img.shields.io/badge/-Support%20us-blue?style=for-the-badge&logo=razorpay)](https://go.yesbhautik.co.in/prime-purchase)
+[![Support us](https://img.shields.io/badge/-Support%20us-blue?style=for-the-badge&logo=razorpay)](https://rzp.io/l/Whatsapp-Ai-BOT)
 
 ## 🚀 Getting Started
 
