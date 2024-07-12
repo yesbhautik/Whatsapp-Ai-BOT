@@ -26,6 +26,9 @@ Give a ping on [﻿Telegram](https://t.me/yesbhautik) | [﻿WhatsApp](https://wa
 | Regular Updates | ❌ | ✅ |
 | Exclusive API offers | ❌ | ✅ |
 | Commercial allowed licence | ❌ | ✅ |
+
+### Get access to [PRIME REPO](https://pages.razorpay.com/Whatsapp-Ai-BOT)
+
 ## 🚀 Getting Started
 >  Get an OpenAI API Key by creating an account [﻿here](https://go.yesbhautik.co.in/l76e5p). 
 
